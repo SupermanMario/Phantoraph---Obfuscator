@@ -24,3 +24,7 @@ If you have any questions or need help, feel free to ask in our **[Discord serve
 ---
 
 > **Phantoraph Obfuscator** – Your trusted Luau obfuscation service.
+
+
+
+tags; Phantoraph Obfuscator, Lua Obfuscator, Luau Obfuscator
